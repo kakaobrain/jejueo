@@ -23,7 +23,7 @@ these datasets will attract interest of both language and machine learning commu
 
 ## Authors
 
-[Kyubyong Park](kbpark.linguist@gmail.com), Yo Joong Choe, Jiyeon Ham<br>
+[Kyubyong Park](mailto://kbpark.linguist@gmail.com), Yo Joong Choe, Jiyeon Ham<br>
 Kakao Brain
 
 ## Citation
