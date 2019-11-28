@@ -1,6 +1,6 @@
 # Jejueo
 
-This is the official repo for [Jejueo Datasets for Machine Translation and Speech Synthesis]().
+This is the official repo for [Jejueo Datasets for Machine Translation and Speech Synthesis](https://arxiv.org/abs/1911.12071).
 
 ## Abstract
 Jejueo was classified as critically endangered by UNESCO in 2010. Although diverse efforts to revitalize it have been made, there have
