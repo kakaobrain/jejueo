@@ -27,12 +27,11 @@ these datasets will attract interest of both language and machine learning commu
 Kakao Brain
 
 ## Citation
-@misc{park2019jejueo,
-    title={Jejueo Datasets for Machine Translation and Speech Synthesis},
-    author={Kyubyong Park and Yo Joong Choe and Jiyeon Ham},
-    year={2019},
-    eprint={1911.12071},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+```
+@inproceedings{jejueo2020,
+author = {Kyubyong Park and Yo Joong Choe and Jiyeon Ham},
+title = {Jejueo Datasets for Machine Translation and Speech Synthesis},
+booktitle = {In Proceedings of the 12th International Conference on Language Resources and Evaluation (LREC 2020)},
+year = {2020},
 }
-
+```
